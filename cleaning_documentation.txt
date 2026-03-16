@@ -1,0 +1,8 @@
+
+Data Cleaning Steps:
+1. Dropped duplicate rows to avoid redundancy.
+2. Removed rows with missing critical data (created_date, borough, complaint_type, zip_code).
+3. Renamed columns for better readability (e.g., incident_zip to zip_code).
+4. Converted created_date and closed_date to datetime format.
+5. Added a new column, time_to_close, to calculate the resolution time in days.
+6. Checked for and replaced invalid zip codes using regular expressions.

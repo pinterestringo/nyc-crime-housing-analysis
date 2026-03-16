@@ -1,0 +1,25 @@
+Summary Statistics:
+                        created_date                    closed_date  time_to_close
+count                           1978                            108    1978.000000
+mean   2024-11-23 11:58:14.827603712  2024-11-23 15:51:10.111111168      -0.945399
+min              2024-11-22 22:13:28            2024-11-23 10:14:18      -1.000000
+25%    2024-11-23 08:21:51.249999872            2024-11-23 13:58:29      -1.000000
+50%              2024-11-23 12:30:16            2024-11-23 15:37:02      -1.000000
+75%    2024-11-23 16:46:02.750000128     2024-11-23 18:03:29.500000      -1.000000
+max              2024-11-24 00:00:03            2024-11-23 21:44:38       0.000000
+std                              NaN                            NaN       0.227256
+
+Complaints by Borough:
+borough
+BRONX            665
+BROOKLYN         563
+MANHATTAN        451
+QUEENS           290
+STATEN ISLAND      9
+
+Average Time to Close Complaints (in days):
+-0.95
+
+Complaints by Month:
+month
+11    1978
